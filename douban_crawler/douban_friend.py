@@ -384,6 +384,5 @@ if __name__ == '__main__':
     douban.ci_yun2(r2)
     douban.geo_heat_map(r2)
     # print(os.path.join(os.path.dirname(__file__), "../"))
-    print('test')
     pass
 
