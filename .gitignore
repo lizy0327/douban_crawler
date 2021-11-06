@@ -1,0 +1,10 @@
+*.class
+.idea/
+.settings/
+target/
+.classpath
+.project
+.DS_Store
+.pydevproject
+*.iml
+logs
